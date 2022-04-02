@@ -30,7 +30,8 @@ This list is meant as a handy reminder of all the services and institutions that
      - [ ] Drivers license
      - [ ] Tax office
 - [ ] City / county government
-     - [ ] Voter registration 
+     - [ ] Voter registration - resource: [vote.gov](https://vote.gov/). Depending on your situation you may need to request to be taken off of the voter roll associated to your former address. You can Google "update voter registration" for instructions from your state's election office.   
+     
 
 #### 💼 Work
 - [ ] Employee HR system
@@ -52,8 +53,9 @@ This list is meant as a handy reminder of all the services and institutions that
 
 #### 👯‍♀️ Friends & Family
 - [ ] Change of address letter
-     - For this I prefer [Social Print Studio](https://www.socialprintstudio.com/)
+     - For this I prefer [Social Print Studio](https://www.socialprintstudio.com/).
 
-####💡 Miscellaneous
+
+#### 💡 Miscellaneous
 - [ ] Cell phone address book (.vcf card)
 
