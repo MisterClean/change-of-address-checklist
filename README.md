@@ -14,16 +14,33 @@ This list is meant as a handy reminder of all the services and institutions that
 - [ ] Retirement brokerages
 - [ ] Credit cards
 - [ ] Student loan servicer 
+- [ ] Equity managment platform
 
 #### 🔌 Utility Providers
 - [ ] Internet service provider
 - [ ] Cell phone network
 - [ ] Electric utility
 - [ ] Gas utility
+- [ ] Water utility
 
-#### 🏛 Federal Government
+#### 🏛 Government
 - [ ] United States Post Office
 - [ ] Internal Revenue Service
+- [ ] State government
+     - [ ] Drivers license
+     - [ ] Tax office
+- [ ] City / county government
+     - [ ] Voter registration 
+
+#### 💼 Work
+- [ ] Employee HR system
+- [ ] 1040 Tax Form
+- [ ] Health Insurance
+- [ ] Dental Insurance
+- [ ] Eye Insurance
+- [ ] Life Insurance
+     - If you have a partner listed as a beneficiary, they may need to have their address updated too
+- [ ] Disability Insurance
 
 #### 🛍 Ecommerce sites
 - [ ] Amazon
@@ -31,7 +48,12 @@ This list is meant as a handy reminder of all the services and institutions that
 
 #### 💳 Subscriptions
 - [ ] Netflix
+- [ ] iCloud
 
 #### 👯‍♀️ Friends & Family
 - [ ] Change of address letter
+     - For this I prefer [Social Print Studio](https://www.socialprintstudio.com/)
+
+####💡 Miscellaneous
+- [ ] Cell phone address book (.vcf card)
 
