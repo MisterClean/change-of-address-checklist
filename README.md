@@ -49,14 +49,18 @@ If you have a partner or family moving with you, ensure that their addresses are
 - [ ] [Amazon](https://www.amazon.com/a/addresses)
 - [ ] [Shop Pay](https://shop.app/pay/account#/)
 
-#### 💳 Technology
+#### 👩‍💻 Technology
 - [ ] Apple ID - [Payments & shipping](https://appleid.apple.com/account/manage/section/payment)
 - [ ] Google - [Payments & shipping](https://myaccount.google.com/payments-and-subscriptions?hl=en)
 
 #### 📱 Apps
 - [ ] Delivery - Doordash, Uber Eats, Postmates, Caviar
 - [ ] Rideshare - Uber, Lyft, Curb
-- [ ] Navigation - Apple Maps, Google Maps, Citymapper, Transit 
+- [ ] Navigation - Apple Maps, Google Maps, Citymapper, Transit
+
+#### 💳 Subscriptions
+- [ ] Amazon subscribe & save
+- [ ] Recurring subscriptions like [Copper Cow Coffee](https://www.coppercowcoffee.com), Birchbox, etc
 
 #### 👯‍♀️ Friends & Family
 - [ ] Change of address letter
